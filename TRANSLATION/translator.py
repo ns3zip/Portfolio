@@ -2,9 +2,10 @@
 
 # You need to install pip install translate, relating to what pip version you have installed on your machine.
 
-# Import TRANSLATION module
-
 # Code written by Nadeem Shah.
+
+
+# Import TRANSLATION module
 
 from translate import Translator
 
