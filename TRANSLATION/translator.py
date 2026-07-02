@@ -1,4 +1,4 @@
-# This exercise is to translate a file from ENG to JAP. Or your chosen preferred language.
+# This exercise is to translate a file from ENGLISH to JAPANESE. Or your chosen preferred language.
 
 # You need to install pip install translate, relating to what pip version you have installed on your machine.
 
