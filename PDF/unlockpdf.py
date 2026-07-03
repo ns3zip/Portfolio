@@ -13,5 +13,5 @@ import os
 
 os.makedirs('temp', exist_ok=True)
 
-pdf = pikepdf.open('uourpdffile.pdf', allow_overwriting_input=True)
+pdf = pikepdf.open('yourpdffile.pdf', allow_overwriting_input=True)
 pdf.save('temp/unlocked.pdf')
