@@ -1,4 +1,6 @@
-# Unlock PDF, Created by Nadeem Shah, 2026.
+# Unlock PDF, Created by Nadeem Shah.
+
+# Use at your own risk. I am not responsible for any consequences resulting from its use.
 
 # You will need to install the pikepdf library as a pip install.
 
