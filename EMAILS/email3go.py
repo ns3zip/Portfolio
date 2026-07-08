@@ -7,11 +7,11 @@ from email.message import EmailMessage
 from string import Template
 from pathlib import Path
 
-html = Template(Path('index.html').read_text())
+html = Template(Path('yourhtmlfile.html').read_text())
 email = EmailMessage()
 email["From"] = ""
 email["To"] = ""
-email["Subject"] = "Email from Nadeem"
+email["Subject"] = "Email from ?????"
 
 email.set_content(html.substitute(name=''), 'html') # We can add additional Variables
 
