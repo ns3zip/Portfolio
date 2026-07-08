@@ -1,3 +1,7 @@
+# JOKE, made by Nadeem Shah.
+
+# You need to install the package called PySimpleGUI
+
 # IMPORT MODULE
 import PySimpleGUI as sg
 
