@@ -1,4 +1,4 @@
-# JOKE, made by Nadeem Shah.
+# JOKE. # Program created by Nadeem Shah, Using open source libraries.
 
 # You need to install the package called PySimpleGUI
 
