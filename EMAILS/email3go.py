@@ -1,6 +1,6 @@
 # Sending a customized email to a person.
 
-# Program created by Nadeem Shah.
+# Program created by Nadeem Shah, Using open source libraries.
 
 import smtplib
 from email.message import EmailMessage
