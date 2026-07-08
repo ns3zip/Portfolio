@@ -2,7 +2,7 @@
 
 # You need to install pip install translate, relating to what pip version you have installed on your machine.
 
-# Code written by Nadeem Shah.
+# # Program created by Nadeem Shah, Using open source libraries.
 
 
 # Import TRANSLATION module
